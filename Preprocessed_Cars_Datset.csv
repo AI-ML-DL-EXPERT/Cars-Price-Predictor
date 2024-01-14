@@ -1,0 +1,1489 @@
+,price,brand,model,year,mileage,color,state
+0,5350,dodge,mpv,2018,39590.0,silver,georgia
+1,25000,ford,door,2014,64146.0,blue,virginia
+2,27700,chevrolet,1500,2018,6654.0,red,florida
+3,5700,dodge,mpv,2018,45561.0,white,texas
+4,13350,gmc,door,2017,23525.0,gray,california
+5,5250,ford,mpv,2017,63418.0,black,texas
+6,12920,gmc,mpv,2017,39650.0,white,california
+7,31900,chevrolet,1500,2018,22909.0,black,tennessee
+8,20700,ford,door,2013,100757.0,black,virginia
+9,12710,gmc,door,2017,25747.0,white,california
+10,5210,ford,mpv,2017,35714.0,white,texas
+11,12520,gmc,door,2017,30114.0,white,california
+12,15000,chevrolet,door,2015,61578.0,black,ohio
+13,6180,ford,mpv,2017,46010.0,blue,texas
+14,20800,ford,door,2013,105510.0,silver,virginia
+15,11900,gmc,door,2017,28040.0,silver,california
+16,4190,ford,doors,2017,44174.0,white,texas
+17,12710,gmc,door,2017,26364.0,silver,california
+18,5330,ford,mpv,2017,37792.0,no_color,texas
+19,11900,gmc,door,2017,27965.0,black,california
+20,19200,chevrolet,1500,2018,2430.0,white,tennessee
+21,12710,gmc,door,2017,30049.0,white,california
+22,30500,chevrolet,1500,2018,30442.0,red,tennessee
+23,6330,ford,mpv,2017,38123.0,red,texas
+24,12520,gmc,door,2017,28972.0,black,california
+25,5580,dodge,mpv,2017,46829.0,gray,texas
+26,12710,gmc,mpv,2017,39886.0,red,california
+27,7760,ford,mpv,2017,44794.0,gray,texas
+28,12920,gmc,mpv,2017,39165.0,silver,california
+29,13490,gmc,door,2017,27842.0,white,california
+30,17800,chevrolet,door,2017,52435.0,black,florida
+31,6650,ford,door,2017,29942.0,black,texas
+32,12710,gmc,door,2017,32504.0,silver,california
+33,18600,chevrolet,door,2017,35200.0,white,florida
+34,4340,ford,door,2017,25602.0,silver,texas
+35,12780,gmc,door,2017,31009.0,black,california
+36,4430,ford,door,2017,31792.0,black,texas
+37,12520,gmc,door,2017,30636.0,red,california
+38,4140,ford,door,2017,36732.0,black,texas
+39,12520,gmc,door,2017,31992.0,black,california
+40,4640,ford,door,2017,36139.0,blue,texas
+41,24000,ford,door,2016,84413.0,black,pennsylvania
+42,13200,gmc,door,2017,33457.0,white,california
+43,4140,ford,door,2017,17617.0,white,texas
+44,11500,ford,door,2016,36855.0,black,pennsylvania
+45,9110,ford,door,2017,110316.0,white,texas
+46,9300,ford,door,2017,120353.0,white,texas
+47,15110,ford,door,2017,39333.0,black,texas
+48,34000,ford,door,2015,42930.0,white,pennsylvania
+49,5990,ford,mpv,2017,44929.0,black,texas
+50,10780,ford,mpv,2017,40455.0,white,texas
+51,7070,ford,mpv,2017,45191.0,white,texas
+52,8530,ford,door,2017,42104.0,black,texas
+53,23100,dodge,durango,2018,49496.0,white,south carolina
+54,7000,ford,mpv,2017,29882.0,white,texas
+55,34002,chevrolet,1500,2017,31923.0,white,michigan
+56,6980,ford,mpv,2017,29168.0,gray,texas
+57,25000,dodge,charger,2018,28307.0,silver,michigan
+58,9200,ford,door,2017,21770.0,black,texas
+59,7070,ford,mpv,2017,30318.0,black,texas
+60,28500,ford,door,2017,48086.0,red,south carolina
+61,23500,ford,explorer,2017,57611.0,black,south carolina
+62,10940,ford,door,2017,84916.0,white,texas
+63,32100,ford,f-150,2017,24521.0,gray,south carolina
+64,11900,dodge,caravan,2017,59537.0,gray,south carolina
+65,26414,chevrolet,1500,2017,55222.0,black,michigan
+66,4160,dodge,mpv,2018,32870.0,gray,florida
+67,19405,chevrolet,door,2017,39687.0,silver,michigan
+68,5690,dodge,mpv,2018,47085.0,silver,florida
+69,5090,dodge,mpv,2018,42989.0,gray,florida
+70,32012,chevrolet,1500,2017,46091.0,white,michigan
+71,4260,dodge,mpv,2018,33957.0,gray,florida
+72,7210,dodge,doors,2018,38910.0,black,florida
+73,28402,chevrolet,1500,2017,31234.0,black,michigan
+74,6800,dodge,doors,2018,36767.0,gray,florida
+75,10780,dodge,mpv,2018,19420.0,white,florida
+76,19900,ford,door,2016,86826.0,gray,south carolina
+77,4040,dodge,mpv,2018,50765.0,red,florida
+78,22300,ford,explorer,2016,62774.0,black,south carolina
+79,4290,dodge,mpv,2018,39029.0,white,florida
+80,4160,dodge,mpv,2018,6743.0,gray,florida
+81,18500,ford,edge,2016,33514.0,white,south carolina
+82,6060,dodge,doors,2018,32504.0,black,florida
+83,28800,ford,door,2016,77638.0,white,south carolina
+84,6140,dodge,doors,2018,52966.0,silver,florida
+85,21000,ford,flex,2016,24157.0,gray,south carolina
+86,6760,dodge,doors,2018,35461.0,white,florida
+87,5470,dodge,mpv,2018,39721.0,black,florida
+88,14600,ford,door,2014,75785.0,black,pennsylvania
+89,24502,chevrolet,1500,2016,33624.0,black,michigan
+90,15110,ford,door,2017,42289.0,white,texas
+91,7900,ford,door,2014,79422.0,white,new york
+92,27305,chevrolet,door,2016,28844.0,blue,michigan
+93,15290,ford,door,2017,66582.0,white,texas
+94,26500,ford,door,2015,61436.0,silver,south carolina
+95,25502,chevrolet,door,2016,58303.0,silver,michigan
+96,7320,ford,mpv,2017,55618.0,white,texas
+97,24502,chevrolet,door,2016,33045.0,white,michigan
+98,4140,ford,door,2017,40747.0,white,texas
+99,4160,ford,door,2017,37176.0,white,texas
+100,15840,ford,door,2017,72445.0,white,texas
+101,20500,ford,door,2014,123355.0,black,south carolina
+102,21003,chevrolet,1500,2016,44116.0,silver,michigan
+103,4200,ford,door,2017,60219.0,red,texas
+104,32001,chevrolet,door,2016,32058.0,black,michigan
+105,31009,chevrolet,door,2016,33928.0,white,michigan
+106,3740,ford,wagon,2017,90618.0,white,texas
+107,31002,chevrolet,door,2016,71809.0,white,michigan
+108,3160,ford,doors,2017,31563.0,gray,texas
+109,12990,ford,door,2017,126523.0,white,texas
+110,7420,ford,mpv,2017,55854.0,white,texas
+111,13500,ford,door,2016,45757.0,silver,arizona
+112,3540,ford,door,2017,112893.0,white,texas
+113,17000,ford,door,2016,126802.0,no_color,florida
+114,4130,ford,door,2017,34061.0,silver,texas
+115,15700,ford,door,2015,70251.0,white,arizona
+116,4130,ford,doors,2017,42426.0,gray,texas
+117,15500,dodge,door,2012,66452.0,black,pennsylvania
+118,4530,ford,mpv,2017,41455.0,white,texas
+119,4100,ford,door,2017,38815.0,gray,texas
+120,10200,chevrolet,door,2013,56479.0,black,texas
+121,4080,ford,doors,2017,61027.0,black,texas
+122,5000,ford,door,2017,37321.0,white,texas
+123,3650,ford,door,2016,68142.0,white,texas
+124,10500,dodge,door,2014,74203.0,white,arizona
+125,4610,dodge,van,2016,87229.0,silver,texas
+126,3450,ford,door,2012,90711.0,white,florida
+127,6810,ford,mpv,2016,66781.0,silver,texas
+128,4450,ford,mpv,2016,32486.0,white,texas
+129,4240,dodge,mpv,2016,83262.0,white,texas
+130,8600,ford,door,2016,73321.0,white,texas
+131,7040,ford,mpv,2016,33291.0,silver,texas
+132,30851,chevrolet,door,2016,43176.0,red,georgia
+133,4880,ford,mpv,2016,36876.0,silver,texas
+134,13270,ford,door,2016,84035.0,white,texas
+135,12800,ford,door,2012,131101.0,gray,arizona
+136,9280,ford,door,2016,101380.0,white,texas
+137,7560,ford,door,2016,111476.0,gray,texas
+138,8020,ford,door,2016,31944.0,white,texas
+139,10480,ford,doors,2016,57289.0,gray,texas
+140,7410,ford,door,2016,21034.0,gray,texas
+141,7570,ford,door,2016,37252.0,white,texas
+142,12560,ford,doors,2019,15958.0,white,florida
+143,33000,dodge,durango,2019,32251.0,white,ohio
+144,31700,dodge,durango,2019,26549.0,red,ohio
+145,7340,ford,doors,2019,15854.0,gray,florida
+146,6530,jeep,mpv,2019,10185.0,black,georgia
+147,7400,ford,doors,2019,16482.0,gray,florida
+148,22800,ford,door,2017,67217.0,red,michigan
+149,9190,gmc,mpv,2017,41961.0,black,virginia
+150,10900,jeep,mpv,2019,13273.0,red,michigan
+151,22809,ford,f-150,2017,50732.0,black,michigan
+152,5520,gmc,mpv,2017,52904.0,silver,virginia
+153,6330,jeep,mpv,2019,43965.0,red,florida
+154,23702,ford,door,2017,49024.0,black,michigan
+155,5520,gmc,mpv,2017,35821.0,silver,virginia
+156,24800,ford,door,2017,46955.0,gray,michigan
+157,6270,gmc,mpv,2017,70443.0,black,virginia
+158,27003,ford,door,2017,57186.0,black,michigan
+159,5600,gmc,mpv,2017,59808.0,black,virginia
+160,3920,ford,door,2015,102700.0,white,georgia
+161,23100,ford,door,2017,53270.0,black,michigan
+162,5630,gmc,mpv,2017,27195.0,black,virginia
+163,8850,ford,door,2015,143818.0,black,georgia
+164,18712,ford,f-150,2017,67347.0,black,michigan
+165,6300,gmc,mpv,2017,117400.0,blue,virginia
+166,6930,jeep,mpv,2019,47798.0,red,florida
+167,3440,ford,door,2015,124542.0,white,georgia
+168,9270,gmc,mpv,2017,19490.0,gray,virginia
+169,11380,jeep,mpv,2019,12038.0,black,michigan
+170,3790,ford,door,2015,100893.0,gray,georgia
+171,9190,gmc,mpv,2017,31394.0,gray,virginia
+172,10630,ford,door,2015,82899.0,white,georgia
+173,3830,ford,door,2015,82534.0,silver,georgia
+174,4150,jeep,door,2014,108895.0,white,new york
+175,6490,ford,door,2015,74754.0,black,georgia
+176,7770,jeep,door,2014,72732.0,gray,new york
+177,9210,ford,door,2015,26911.0,silver,georgia
+178,5690,nissan,mpv,2017,42616.0,blue,new jersey
+179,33001,ford,f-150,2017,35905.0,gray,michigan
+180,3550,nissan,doors,2018,29043.0,blue,california
+181,3040,nissan,doors,2017,36064.0,gray,new jersey
+182,31003,ford,door,2017,72084.0,red,michigan
+183,3160,nissan,doors,2017,34861.0,gray,new jersey
+184,27102,ford,f-150,2017,34165.0,red,michigan
+185,5800,jeep,mpv,2019,30546.0,silver,ohio
+186,3390,nissan,doors,2018,38349.0,gray,california
+187,3140,nissan,doors,2017,30142.0,white,new jersey
+188,23911,ford,f-150,2017,25698.0,black,michigan
+189,11000,jeep,mpv,2019,8930.0,red,michigan
+190,4950,jeep,mpv,2019,46985.0,silver,ohio
+191,3140,nissan,doors,2017,34318.0,silver,new jersey
+192,26012,ford,door,2017,19850.0,black,michigan
+193,3210,nissan,doors,2017,25255.0,black,new jersey
+194,25503,ford,f-150,2017,18647.0,black,michigan
+195,11200,jeep,mpv,2019,12905.0,gray,michigan
+196,8610,jeep,mpv,2019,22123.0,silver,ohio
+197,3570,dodge,door,2015,17355.0,black,georgia
+198,25001,ford,door,2017,27773.0,gray,michigan
+199,5630,gmc,mpv,2017,58366.0,black,virginia
+200,11100,jeep,mpv,2019,11229.0,white,michigan
+201,3820,nissan,mpv,2016,41654.0,blue,california
+202,4700,dodge,door,2015,93423.0,red,georgia
+203,29502,ford,f-150,2017,14053.0,red,michigan
+204,10910,jeep,mpv,2019,12253.0,red,michigan
+205,3020,nissan,doors,2017,33599.0,white,new jersey
+206,24811,ford,door,2017,28464.0,red,michigan
+207,3800,nissan,door,2015,83915.0,black,california
+208,3160,nissan,doors,2017,40306.0,silver,new jersey
+209,26400,ford,door,2017,36295.0,red,michigan
+210,3210,nissan,doors,2017,35251.0,gray,new jersey
+211,13200,chevrolet,door,2017,50408.0,black,pennsylvania
+212,27705,ford,f-150,2019,15630.0,gray,michigan
+213,7200,chevrolet,door,2017,53273.0,black,pennsylvania
+214,28714,ford,f-150,2019,14786.0,white,michigan
+215,11200,chevrolet,door,2017,85315.0,white,pennsylvania
+216,27502,ford,f-150,2019,16146.0,gray,michigan
+217,11900,chevrolet,door,2017,76211.0,blue,pennsylvania
+218,29314,ford,f-150,2019,15265.0,gray,michigan
+219,11200,chevrolet,door,2017,79965.0,silver,pennsylvania
+220,27002,ford,f-150,2019,16059.0,gray,michigan
+221,13200,chevrolet,door,2017,62739.0,black,pennsylvania
+222,28214,ford,f-150,2019,15569.0,white,michigan
+223,12700,chevrolet,door,2017,58932.0,black,pennsylvania
+224,29900,ford,f-150,2019,17488.0,white,michigan
+225,12700,chevrolet,door,2017,60733.0,black,pennsylvania
+226,27202,ford,f-150,2019,18550.0,red,michigan
+227,27705,ford,f-150,2019,17644.0,silver,michigan
+228,14700,chevrolet,van,2016,34454.0,white,pennsylvania
+229,29900,ford,f-150,2019,17684.0,white,michigan
+230,4500,chevrolet,door,2015,83279.0,gray,pennsylvania
+231,27705,ford,f-150,2019,16600.0,silver,michigan
+232,8000,chevrolet,door,2015,107971.0,gray,pennsylvania
+233,25511,ford,f-150,2019,17801.0,silver,michigan
+234,29900,ford,f-150,2019,17159.0,silver,michigan
+235,7200,chevrolet,van,2015,80711.0,white,pennsylvania
+236,27502,ford,f-150,2019,17983.0,red,michigan
+237,4500,chevrolet,door,2013,119981.0,white,pennsylvania
+238,27402,ford,f-150,2019,17851.0,white,michigan
+239,26602,ford,f-150,2019,18174.0,white,michigan
+240,29900,ford,f-150,2019,18759.0,black,michigan
+241,28500,ford,f-150,2019,18901.0,silver,michigan
+242,8000,chevrolet,door,2016,86541.0,black,florida
+243,29809,ford,f-150,2019,21157.0,silver,michigan
+244,26902,ford,f-150,2019,23964.0,white,michigan
+245,10950,chevrolet,door,2015,58504.0,red,florida
+246,27402,ford,f-150,2019,20154.0,white,michigan
+247,25600,ford,f-150,2019,23294.0,silver,michigan
+248,27702,ford,f-150,2019,20343.0,red,michigan
+249,27102,ford,f-150,2019,19100.0,white,michigan
+250,27102,ford,f-150,2019,20014.0,white,michigan
+251,25811,ford,f-150,2019,21774.0,black,michigan
+252,26602,ford,f-150,2019,21201.0,white,michigan
+253,27102,ford,f-150,2019,21766.0,white,michigan
+254,26211,ford,flex,2019,17977.0,blue,michigan
+255,24205,ford,flex,2019,22805.0,silver,michigan
+256,27111,ford,flex,2019,14382.0,black,michigan
+257,27411,ford,flex,2019,9660.0,black,michigan
+258,27302,ford,flex,2019,18969.0,black,michigan
+259,27202,ford,f-150,2019,24730.0,gray,michigan
+260,26311,ford,flex,2019,15847.0,red,michigan
+261,26602,ford,f-150,2019,25009.0,white,michigan
+262,27511,ford,flex,2019,11836.0,white,michigan
+263,27200,ford,f-150,2019,25508.0,silver,michigan
+264,26511,ford,flex,2019,18196.0,red,michigan
+265,24002,ford,flex,2019,16106.0,gray,michigan
+266,18511,ford,fusion,2019,12735.0,gray,michigan
+267,23402,ford,flex,2019,17417.0,gray,michigan
+268,23211,ford,flex,2019,17025.0,black,michigan
+269,18111,ford,fusion,2019,15805.0,black,michigan
+270,25511,ford,mustang,2019,11342.0,gray,michigan
+271,14000,chevrolet,door,2017,38458.0,blue,wisconsin
+272,21700,chevrolet,door,2017,34420.0,silver,wisconsin
+273,13500,chevrolet,door,2017,46497.0,white,wisconsin
+274,29500,chevrolet,1500,2017,31029.0,red,wisconsin
+275,25300,chevrolet,1500,2017,40878.0,no_color,wisconsin
+276,21500,chevrolet,1500,2016,20270.0,silver,new jersey
+277,25900,chevrolet,door,2016,32984.0,blue,wisconsin
+278,13500,chevrolet,door,2016,39951.0,red,wisconsin
+279,25900,chevrolet,door,2016,33588.0,white,wisconsin
+280,25800,chevrolet,door,2016,10103.0,no_color,wisconsin
+281,17000,chevrolet,door,2016,26474.0,gray,wisconsin
+282,12800,chevrolet,door,2016,40253.0,white,wisconsin
+283,24400,chevrolet,door,2016,48705.0,gray,wisconsin
+284,7400,chevrolet,door,2015,91299.0,no_color,wisconsin
+285,35000,chevrolet,1500,2019,5523.0,no_color,california
+286,28100,chevrolet,1500,2017,31141.0,silver,california
+287,27700,chevrolet,1500,2017,20784.0,white,california
+288,22600,chevrolet,van,2019,13485.0,white,oklahoma
+289,22400,chevrolet,van,2019,15524.0,white,oklahoma
+290,22700,chevrolet,van,2019,8996.0,white,oklahoma
+291,18500,chevrolet,1500,2017,103955.0,white,oregon
+292,22500,chevrolet,door,2016,66640.0,white,oregon
+293,14500,chevrolet,door,2014,122018.0,white,oregon
+294,19600,chevrolet,1500,2018,41672.0,gray,oklahoma
+295,19900,chevrolet,1500,2018,40345.0,white,oklahoma
+296,19700,chevrolet,door,2016,27593.0,white,oklahoma
+297,9400,chevrolet,door,2017,24009.0,blue,oklahoma
+298,23800,chevrolet,1500,2017,85697.0,white,oklahoma
+299,17000,chevrolet,door,2015,27927.0,white,oklahoma
+300,14000,chevrolet,door,2014,135127.0,red,florida
+301,5100,chevrolet,door,2013,96314.0,gray,pennsylvania
+302,4100,chevrolet,door,2013,89152.0,blue,pennsylvania
+303,7200,chevrolet,door,2014,114660.0,silver,texas
+304,21800,chevrolet,van,2019,23759.0,white,missouri
+305,3000,chevrolet,door,2013,120667.0,gray,texas
+306,33000,chevrolet,door,2017,67620.0,black,missouri
+307,31500,chevrolet,1500,2017,59965.0,black,missouri
+308,34500,chevrolet,1500,2017,28739.0,silver,missouri
+309,25000,chevrolet,1500,2017,20847.0,white,west virginia
+310,13400,chevrolet,door,2016,86031.0,silver,west virginia
+311,9100,chevrolet,door,2016,54655.0,blue,missouri
+312,8600,chevrolet,door,2016,57825.0,blue,missouri
+313,22000,chevrolet,door,2016,58856.0,white,oklahoma
+314,15500,chevrolet,door,2015,79506.0,red,west virginia
+315,3300,chevrolet,door,2015,85301.0,silver,west virginia
+316,3300,chevrolet,door,2012,131791.0,no_color,illinois
+317,24300,chevrolet,1500,2018,56296.0,black,new york
+318,10800,chevrolet,door,2017,80516.0,gray,new jersey
+319,11500,chevrolet,van,2017,105151.0,white,new jersey
+320,10400,chevrolet,van,2017,78368.0,white,new jersey
+321,8000,chevrolet,door,2015,78800.0,white,nevada
+322,3000,chevrolet,door,2012,111856.0,white,california
+323,25000,chevrolet,door,2015,80946.0,black,nevada
+324,9000,chevrolet,van,2014,82020.0,white,nevada
+325,4200,chevrolet,door,2014,102500.0,black,nevada
+326,22500,chevrolet,van,2019,8150.0,white,texas
+327,22600,chevrolet,van,2019,6159.0,white,texas
+328,22600,chevrolet,van,2019,5938.0,white,texas
+329,22500,chevrolet,van,2019,9019.0,white,texas
+330,22700,chevrolet,door,2016,90944.0,white,texas
+331,10500,chevrolet,door,2013,112267.0,silver,texas
+332,6700,chevrolet,door,2013,139394.0,white,texas
+333,14200,chevrolet,door,2013,82543.0,black,texas
+334,17600,chevrolet,1500,2016,65336.0,white,new jersey
+335,18600,chevrolet,1500,2016,48974.0,white,new jersey
+336,19100,chevrolet,1500,2016,40011.0,white,new jersey
+337,11400,chevrolet,door,2013,91638.0,silver,new jersey
+338,6500,chevrolet,door,2015,83173.0,white,north carolina
+339,11500,chevrolet,door,2014,94356.0,gray,north carolina
+340,23800,chevrolet,door,2015,85792.0,black,florida
+341,8900,chevrolet,door,2014,129068.0,white,florida
+342,3500,chevrolet,door,2013,78198.0,gray,new jersey
+343,22500,dodge,charger,2018,20575.0,silver,wisconsin
+344,22500,dodge,charger,2018,26026.0,gray,wisconsin
+345,8300,dodge,door,2012,99015.0,gray,wisconsin
+346,28800,dodge,durango,2019,19235.0,no_color,texas
+347,22100,dodge,challenger,2019,9445.0,gray,texas
+348,14300,dodge,journey,2018,19164.0,gray,north carolina
+349,13700,dodge,caravan,2018,54106.0,white,north carolina
+350,29500,dodge,challenger,2017,32051.0,no_color,arizona
+351,18500,dodge,journey,2017,14870.0,gray,texas
+352,19000,dodge,door,2016,32294.0,blue,colorado
+353,12500,dodge,journey,2018,59924.0,silver,texas
+354,13900,dodge,charger,2017,21304.0,black,florida
+355,13000,dodge,caravan,2018,52079.0,white,california
+356,13000,dodge,caravan,2018,54960.0,white,california
+357,3000,dodge,door,2013,80099.0,white,texas
+358,17500,dodge,caravan,2019,23987.0,black,florida
+359,7900,dodge,door,2017,84144.0,gray,california
+360,8900,dodge,door,2014,85639.0,blue,florida
+361,11500,dodge,caravan,2018,50193.0,no_color,pennsylvania
+362,6500,dodge,journey,2017,74392.0,black,pennsylvania
+363,8000,dodge,door,2017,76117.0,black,pennsylvania
+364,18700,dodge,challenger,2018,36358.0,gray,new jersey
+365,8350,dodge,journey,2017,90685.0,white,florida
+366,14500,dodge,door,2016,82240.0,white,pennsylvania
+367,6200,dodge,door,2016,66167.0,silver,pennsylvania
+368,7500,dodge,door,2012,144220.0,gray,pennsylvania
+369,20200,dodge,caravan,2019,24722.0,black,illinois
+370,29300,dodge,durango,2019,41198.0,silver,illinois
+371,31000,dodge,durango,2019,26353.0,black,illinois
+372,32400,dodge,durango,2019,28280.0,white,illinois
+373,5800,dodge,door,2012,130120.0,white,minnesota
+374,21500,dodge,charger,2019,15340.0,black,texas
+375,23100,dodge,charger,2018,12265.0,silver,michigan
+376,4500,dodge,van,2014,94872.0,gray,texas
+377,24800,dodge,charger,2018,17946.0,silver,michigan
+378,23000,dodge,charger,2018,26996.0,gray,michigan
+379,26900,dodge,journey,2019,5775.0,gray,wisconsin
+380,21500,dodge,challenger,2018,6748.0,gray,wisconsin
+381,15700,dodge,journey,2018,38128.0,white,wisconsin
+382,15200,dodge,caravan,2018,41636.0,silver,wisconsin
+383,23300,dodge,charger,2018,5359.0,blue,wisconsin
+384,6100,dodge,door,2015,70296.0,white,minnesota
+385,18200,dodge,door,2016,50639.0,black,new jersey
+386,21800,dodge,challenger,2019,6530.0,gray,arizona
+387,19000,dodge,charger,2019,19636.0,black,arizona
+388,25000,dodge,challenger,2016,41748.0,no_color,illinois
+389,17000,dodge,caravan,2019,32937.0,white,georgia
+390,25300,dodge,door,2015,23095.0,red,wisconsin
+391,14900,dodge,journey,2017,34432.0,gray,wisconsin
+392,15000,dodge,caravan,2017,48162.0,no_color,wisconsin
+393,12995,dodge,doors,2014,68310.0,gray,massachusetts
+394,17750,dodge,doors,2014,48000.0,black,massachusetts
+395,10295,dodge,doors,2014,105962.0,black,pennsylvania
+396,16995,dodge,doors,2014,96575.0,gray,connecticut
+397,20999,dodge,doors,2014,37082.0,silver,new york
+398,21232,dodge,charger,2019,4950.0,gray,texas
+399,5800,dodge,journey,2013,111628.0,white,wisconsin
+400,29000,dodge,door,2012,15927.0,black,illinois
+401,17000,dodge,caravan,2018,36299.0,gray,new jersey
+402,13800,dodge,journey,2018,28469.0,red,florida
+403,30000,dodge,durango,2019,29086.0,gray,missouri
+404,14800,dodge,caravan,2017,35991.0,gray,florida
+405,8500,dodge,journey,2017,62224.0,black,missouri
+406,9800,dodge,door,2013,86500.0,white,missouri
+407,4200,dodge,door,2014,144725.0,gray,nevada
+408,28700,dodge,charger,2018,19636.0,blue,california
+409,18500,dodge,challenger,2018,34272.0,gray,california
+410,17300,dodge,challenger,2018,42909.0,no_color,california
+411,7100,dodge,door,2016,55749.0,gray,louisiana
+412,30700,dodge,durango,2017,20328.0,no_color,california
+413,3000,dodge,door,2012,149332.0,gray,missouri
+414,26500,dodge,durango,2019,28551.0,gray,california
+415,20800,dodge,charger,2019,35098.0,gray,california
+416,20800,dodge,charger,2019,35365.0,gray,california
+417,5100,dodge,door,2015,88398.0,white,california
+418,18900,dodge,challenger,2019,27957.0,black,california
+419,24000,dodge,durango,2019,30161.0,silver,california
+420,24500,dodge,durango,2019,25780.0,white,california
+421,24500,dodge,durango,2019,25032.0,black,california
+422,6500,dodge,door,2016,72248.0,blue,new jersey
+423,24000,dodge,durango,2019,30630.0,gray,california
+424,18000,dodge,door,2014,86125.0,no_color,california
+425,24000,dodge,durango,2019,30408.0,white,california
+426,23500,dodge,durango,2019,35443.0,silver,california
+427,4500,dodge,van,2014,95377.0,white,california
+428,25900,dodge,durango,2019,32724.0,silver,california
+429,13900,dodge,caravan,2019,45089.0,gray,california
+430,14200,dodge,journey,2019,35948.0,silver,california
+431,15400,dodge,caravan,2019,41601.0,blue,california
+432,17500,dodge,challenger,2019,26370.0,gray,texas
+433,17500,dodge,caravan,2019,18271.0,white,texas
+434,18000,dodge,caravan,2019,9476.0,white,texas
+435,25200,dodge,door,2012,80899.0,gray,new jersey
+436,14100,dodge,caravan,2018,57394.0,black,texas
+437,13300,dodge,caravan,2018,42190.0,white,california
+438,16200,dodge,caravan,2019,22591.0,black,oklahoma
+439,13300,dodge,caravan,2018,48681.0,gray,california
+440,13100,dodge,caravan,2018,42621.0,silver,california
+441,15500,dodge,caravan,2017,27761.0,silver,california
+442,28400,dodge,durango,2019,14355.0,gray,colorado
+443,17400,dodge,caravan,2019,9467.0,gray,colorado
+444,6000,dodge,door,2014,122837.0,silver,florida
+445,20700,dodge,challenger,2019,18313.0,gray,virginia
+446,20300,dodge,challenger,2019,19506.0,black,virginia
+447,14000,dodge,journey,2018,14750.0,black,oklahoma
+448,17200,dodge,journey,2019,13944.0,blue,virginia
+449,15000,dodge,door,2016,26922.0,blue,oklahoma
+450,17500,dodge,journey,2019,12690.0,gray,virginia
+451,16300,dodge,caravan,2019,28289.0,red,florida
+452,15700,dodge,caravan,2019,38041.0,red,florida
+453,10000,dodge,journey,2017,52386.0,silver,florida
+454,23100,dodge,charger,2019,34391.0,white,florida
+455,14900,dodge,caravan,2019,39515.0,red,florida
+456,16300,dodge,caravan,2019,28782.0,white,florida
+457,25800,dodge,durango,2019,30092.0,red,north carolina
+458,23800,dodge,challenger,2019,26443.0,black,north carolina
+459,16800,dodge,journey,2019,28981.0,red,north carolina
+460,15500,dodge,journey,2019,32865.0,white,north carolina
+461,6000,dodge,door,2014,117258.0,blue,florida
+462,26900,dodge,durango,2019,16397.0,white,arizona
+463,16900,dodge,caravan,2019,16176.0,white,arizona
+464,19500,dodge,caravan,2019,1091.0,gray,arizona
+465,15400,dodge,caravan,2019,17472.0,black,arizona
+466,17000,dodge,charger,2019,10341.0,red,california
+467,34000,dodge,durango,2019,19695.0,black,new jersey
+468,13700,dodge,journey,2017,51041.0,black,pennsylvania
+469,19100,dodge,challenger,2018,22646.0,white,west virginia
+470,11800,dodge,journey,2018,18138.0,white,west virginia
+471,27500,dodge,durango,2019,23987.0,gray,nevada
+472,26900,dodge,durango,2019,17160.0,black,nevada
+473,27100,dodge,durango,2019,26929.0,white,nevada
+474,27200,dodge,durango,2019,25815.0,white,nevada
+475,9000,dodge,caravan,2017,81992.0,silver,florida
+476,22500,dodge,challenger,2019,5000.0,gray,south carolina
+477,7700,dodge,door,2015,62683.0,white,west virginia
+478,4500,dodge,van,2013,107224.0,white,florida
+479,21500,dodge,charger,2019,35153.0,black,pennsylvania
+480,21800,dodge,charger,2019,30943.0,red,pennsylvania
+481,20300,dodge,challenger,2019,17154.0,black,pennsylvania
+482,8200,dodge,van,2016,79637.0,white,south carolina
+483,19000,dodge,caravan,2019,12123.0,red,pennsylvania
+484,8400,dodge,door,2016,107822.0,blue,south carolina
+485,19500,dodge,caravan,2019,10221.0,blue,pennsylvania
+486,7000,dodge,door,2015,95278.0,blue,south carolina
+487,19500,dodge,challenger,2019,13457.0,gray,pennsylvania
+488,8500,dodge,van,2014,69936.0,blue,missouri
+489,20500,dodge,challenger,2019,13520.0,gray,pennsylvania
+490,4900,dodge,door,2014,96922.0,silver,south carolina
+491,20800,dodge,door,2014,72594.0,black,missouri
+492,28500,dodge,durango,2019,17896.0,silver,pennsylvania
+493,21900,dodge,caravan,2019,11088.0,silver,pennsylvania
+494,15800,dodge,caravan,2019,29567.0,black,nevada
+495,33000,dodge,durango,2019,15655.0,white,colorado
+496,22700,dodge,challenger,2019,26428.0,black,nevada
+497,21900,dodge,charger,2019,29003.0,white,pennsylvania
+498,19300,dodge,charger,2019,32229.0,red,pennsylvania
+499,30700,dodge,durango,2019,26503.0,black,nevada
+500,19300,dodge,challenger,2019,15446.0,black,pennsylvania
+501,13750,dodge,caravan,2014,128556.0,white,california
+502,16400,dodge,caravan,2019,23369.0,silver,nevada
+503,19500,dodge,caravan,2019,8767.0,black,pennsylvania
+504,15100,dodge,caravan,2019,48319.0,white,nevada
+505,28500,dodge,durango,2019,15275.0,black,pennsylvania
+506,15300,dodge,caravan,2019,33826.0,white,nevada
+507,20300,dodge,challenger,2019,16679.0,white,pennsylvania
+508,22000,dodge,charger,2019,26184.0,gray,pennsylvania
+509,16700,dodge,journey,2019,21203.0,gray,nevada
+510,19300,dodge,challenger,2019,17870.0,black,pennsylvania
+511,34100,dodge,durango,2019,17909.0,gray,michigan
+512,14600,dodge,caravan,2019,41126.0,silver,nevada
+513,18200,dodge,caravan,2019,14098.0,red,pennsylvania
+514,33800,dodge,durango,2019,15003.0,black,michigan
+515,15900,dodge,journey,2019,29105.0,black,nevada
+516,16500,dodge,caravan,2019,34794.0,black,pennsylvania
+517,29600,dodge,durango,2019,20034.0,silver,michigan
+518,14100,dodge,caravan,2019,46942.0,black,nevada
+519,18200,dodge,caravan,2019,14753.0,white,pennsylvania
+520,18200,dodge,caravan,2019,14359.0,black,pennsylvania
+521,24300,dodge,charger,2019,34922.0,black,michigan
+522,15400,dodge,journey,2019,20944.0,white,nevada
+523,19000,dodge,journey,2019,9877.0,white,pennsylvania
+524,19000,dodge,journey,2019,8949.0,black,pennsylvania
+525,27800,dodge,challenger,2017,13627.0,gray,georgia
+526,18200,dodge,journey,2019,18291.0,blue,pennsylvania
+527,15000,dodge,journey,2018,38029.0,white,pennsylvania
+528,19200,dodge,caravan,2017,32593.0,gray,michigan
+529,15500,dodge,caravan,2018,37352.0,red,pennsylvania
+530,15500,dodge,journey,2018,30671.0,red,pennsylvania
+531,18400,dodge,journey,2017,15027.0,black,michigan
+532,14700,dodge,caravan,2018,29115.0,white,florida
+533,3900,dodge,door,2015,93604.0,white,florida
+534,5200,dodge,door,2015,100203.0,black,florida
+535,17200,dodge,caravan,2019,35401.0,silver,minnesota
+536,18700,dodge,caravan,2019,20279.0,red,minnesota
+537,32000,dodge,durango,2019,26090.0,red,minnesota
+538,14500,dodge,door,2015,107924.0,white,michigan
+539,19400,dodge,caravan,2019,14906.0,black,minnesota
+540,17300,dodge,caravan,2019,34407.0,black,minnesota
+541,19100,dodge,caravan,2019,18132.0,white,minnesota
+542,11100,dodge,door,2013,109176.0,black,illinois
+543,32000,dodge,durango,2019,25456.0,black,minnesota
+544,16900,dodge,caravan,2019,38375.0,silver,minnesota
+545,18000,dodge,charger,2017,39792.0,blue,massachusetts
+546,17800,dodge,caravan,2019,30403.0,white,minnesota
+547,18000,dodge,caravan,2019,28252.0,white,minnesota
+548,17500,dodge,caravan,2019,31904.0,white,minnesota
+549,14500,dodge,caravan,2018,24336.0,silver,nevada
+550,18500,dodge,caravan,2019,23961.0,silver,minnesota
+551,18600,dodge,caravan,2019,22919.0,silver,minnesota
+552,32000,dodge,durango,2019,22863.0,red,minnesota
+553,17000,dodge,caravan,2019,38817.0,black,minnesota
+554,16000,dodge,caravan,2019,48854.0,white,minnesota
+555,18000,dodge,caravan,2019,27288.0,white,minnesota
+556,6200,dodge,door,2016,99988.0,silver,alabama
+557,3700,dodge,door,2013,84109.0,black,alabama
+558,24000,dodge,door,2012,88539.0,white,mississippi
+559,18500,dodge,door,2012,101017.0,white,mississippi
+560,18300,dodge,challenger,2019,13906.0,black,pennsylvania
+561,21000,dodge,charger,2019,20601.0,gray,pennsylvania
+562,11900,dodge,charger,2019,23421.0,gray,pennsylvania
+563,26800,dodge,durango,2019,21309.0,gray,pennsylvania
+564,21000,dodge,caravan,2019,10350.0,white,pennsylvania
+565,33500,dodge,durango,2019,8605.0,white,pennsylvania
+566,21000,dodge,caravan,2019,10170.0,gray,pennsylvania
+567,26800,dodge,durango,2019,22272.0,silver,pennsylvania
+568,5700,dodge,van,2016,101906.0,blue,texas
+569,33000,dodge,durango,2019,10930.0,white,pennsylvania
+570,11000,dodge,caravan,2019,73552.0,silver,texas
+571,15800,dodge,caravan,2019,37107.0,blue,pennsylvania
+572,16300,dodge,caravan,2019,36993.0,white,pennsylvania
+573,12800,dodge,caravan,2019,33580.0,no_color,pennsylvania
+574,9700,dodge,door,2015,94140.0,black,texas
+575,18300,dodge,journey,2019,10447.0,silver,pennsylvania
+576,16000,dodge,charger,2019,10229.0,silver,illinois
+577,21000,dodge,caravan,2019,6269.0,gray,pennsylvania
+578,3700,dodge,door,2014,98699.0,white,texas
+579,33000,dodge,durango,2019,10631.0,gray,illinois
+580,14700,dodge,caravan,2019,44381.0,silver,pennsylvania
+581,33000,dodge,durango,2019,13960.0,silver,illinois
+582,15900,dodge,caravan,2019,14051.0,white,pennsylvania
+583,33000,dodge,durango,2019,20800.0,gray,illinois
+584,33000,dodge,durango,2019,8873.0,gray,illinois
+585,32500,dodge,durango,2019,15502.0,black,illinois
+586,33000,dodge,durango,2019,9669.0,silver,illinois
+587,13000,dodge,caravan,2018,50873.0,black,virginia
+588,33000,dodge,durango,2019,14117.0,white,illinois
+589,16500,dodge,charger,2019,46820.0,red,illinois
+590,33000,dodge,durango,2019,7247.0,gray,illinois
+591,34500,dodge,challenger,2017,40991.0,red,north carolina
+592,33500,dodge,durango,2019,9023.0,white,illinois
+593,13200,dodge,caravan,2018,41014.0,silver,pennsylvania
+594,31500,dodge,durango,2018,20907.0,white,illinois
+595,17400,dodge,durango,2017,89795.0,red,illinois
+596,26000,dodge,durango,2017,57158.0,white,illinois
+597,11000,dodge,door,2013,83976.0,white,illinois
+598,21000,dodge,charger,2018,12554.0,gray,texas
+599,5500,dodge,door,2015,60707.0,gray,texas
+600,7500,dodge,door,2014,40110.0,red,texas
+601,15800,dodge,caravan,2019,28038.0,silver,michigan
+602,16900,dodge,journey,2019,26643.0,red,michigan
+603,25000,dodge,durango,2019,36127.0,white,michigan
+604,15600,dodge,caravan,2019,29926.0,black,michigan
+605,23800,dodge,durango,2019,36750.0,white,north carolina
+606,16800,dodge,journey,2019,27312.0,black,michigan
+607,22700,dodge,durango,2019,49575.0,white,north carolina
+608,23300,dodge,challenger,2019,30279.0,red,north carolina
+609,23500,dodge,challenger,2019,25825.0,white,north carolina
+610,25500,dodge,durango,2019,32474.0,silver,north carolina
+611,21800,dodge,challenger,2019,30585.0,white,north carolina
+612,22800,dodge,durango,2019,36203.0,gray,north carolina
+613,18200,dodge,caravan,2019,29602.0,red,michigan
+614,23500,dodge,challenger,2019,28689.0,red,north carolina
+615,15700,dodge,caravan,2019,39148.0,white,north carolina
+616,17500,dodge,journey,2018,33495.0,silver,michigan
+617,15700,dodge,caravan,2019,35274.0,white,north carolina
+618,16100,dodge,caravan,2019,31297.0,red,north carolina
+619,15400,dodge,caravan,2019,37704.0,gray,north carolina
+620,28200,dodge,durango,2017,27060.0,white,michigan
+621,15300,dodge,caravan,2019,40002.0,no_color,north carolina
+622,15900,dodge,caravan,2019,34930.0,red,north carolina
+623,15800,dodge,caravan,2019,36876.0,white,north carolina
+624,16300,dodge,caravan,2019,27071.0,silver,north carolina
+625,14500,dodge,caravan,2019,35652.0,gray,north carolina
+626,15400,dodge,caravan,2019,30055.0,no_color,north carolina
+627,15000,dodge,caravan,2019,34797.0,black,north carolina
+628,15500,dodge,caravan,2019,43943.0,gray,north carolina
+629,15000,dodge,caravan,2019,35744.0,no_color,north carolina
+630,15200,dodge,caravan,2019,31542.0,no_color,north carolina
+631,15700,dodge,caravan,2019,26899.0,white,north carolina
+632,16100,dodge,journey,2019,29985.0,silver,north carolina
+633,16300,dodge,journey,2018,37009.0,silver,texas
+634,16000,dodge,journey,2019,30731.0,white,north carolina
+635,16900,dodge,journey,2019,30062.0,silver,north carolina
+636,17300,dodge,journey,2019,25534.0,silver,north carolina
+637,15900,dodge,journey,2019,29716.0,gray,north carolina
+638,15700,dodge,journey,2019,34294.0,silver,north carolina
+639,16900,dodge,journey,2019,27643.0,white,north carolina
+640,15500,dodge,journey,2019,35516.0,white,north carolina
+641,15100,dodge,journey,2019,40674.0,silver,north carolina
+642,15500,dodge,journey,2019,32494.0,white,north carolina
+643,15400,dodge,journey,2019,35047.0,red,north carolina
+644,16500,dodge,journey,2019,32898.0,silver,north carolina
+645,15200,dodge,journey,2019,37174.0,silver,north carolina
+646,11100,dodge,caravan,2017,51469.0,gray,north carolina
+647,16900,dodge,journey,2019,30186.0,silver,north carolina
+648,15300,dodge,journey,2019,41956.0,silver,north carolina
+649,16600,dodge,journey,2019,30727.0,black,north carolina
+650,21800,dodge,durango,2017,38956.0,black,pennsylvania
+651,26300,dodge,durango,2019,26462.0,red,georgia
+652,20900,dodge,challenger,2019,23143.0,red,georgia
+653,20100,dodge,challenger,2019,17340.0,gray,georgia
+654,26700,dodge,charger,2019,29749.0,gray,georgia
+655,23900,dodge,charger,2019,35248.0,white,georgia
+656,14500,dodge,caravan,2018,40417.0,no_color,florida
+657,23000,dodge,durango,2017,30309.0,gray,virginia
+658,15000,dodge,journey,2018,42303.0,red,north carolina
+659,15000,dodge,journey,2018,35326.0,white,north carolina
+660,28500,ford,door,2017,92100.0,white,texas
+661,28000,ford,door,2017,99375.0,white,texas
+662,9000,ford,door,2017,72418.0,gray,texas
+663,25000,ford,door,2017,119439.0,white,texas
+664,17347,ford,doors,2015,54396.0,black,massachusetts
+665,13800,ford,door,2016,91606.0,white,texas
+666,25888,ford,doors,2015,2807.0,black,new jersey
+667,8500,ford,fusion,2017,78739.0,black,tennessee
+668,21289,ford,doors,2015,71955.0,gray,new york
+669,13799,ford,doors,2015,83693.0,red,new jersey
+670,24500,ford,wagon,2018,39943.0,white,florida
+671,32500,ford,explorer,2020,5920.0,silver,missouri
+672,9200,ford,fusion,2018,71478.0,blue,pennsylvania
+673,17700,ford,door,2017,119520.0,silver,pennsylvania
+674,18300,ford,fusion,2020,10882.0,white,california
+675,15200,ford,door,2016,69003.0,white,pennsylvania
+676,21900,ford,mustang,2018,29748.0,red,new jersey
+677,20700,ford,wagon,2019,25582.0,white,california
+678,12300,ford,fusion,2019,24520.0,gray,california
+679,4200,ford,door,2016,104383.0,blue,pennsylvania
+680,19500,ford,transit,2019,34164.0,white,california
+681,14300,ford,fusion,2020,6975.0,silver,california
+682,13700,ford,van,2016,67150.0,white,pennsylvania
+683,13200,ford,door,2015,100820.0,white,pennsylvania
+684,6200,ford,door,2014,142286.0,white,pennsylvania
+685,6500,ford,door,2015,60015.0,black,pennsylvania
+686,8700,ford,van,2013,64598.0,white,pennsylvania
+687,3200,ford,door,2012,111532.0,black,pennsylvania
+688,9000,ford,door,2012,149346.0,black,pennsylvania
+689,20000,ford,edge,2018,43567.0,silver,illinois
+690,33000,ford,door,2017,36004.0,white,texas
+691,23300,ford,f-150,2019,10935.0,white,south carolina
+692,11975,ford,door,2012,122014.0,white,texas
+693,23600,ford,transit,2019,19363.0,white,south carolina
+694,12000,ford,explorer,2016,42902.0,black,texas
+695,23900,ford,transit,2019,11077.0,white,south carolina
+696,27000,ford,flex,2019,18279.0,white,illinois
+697,24000,ford,transit,2019,7373.0,white,south carolina
+698,16200,ford,fusion,2019,41662.0,white,south carolina
+699,30000,ford,flex,2019,15019.0,gray,wisconsin
+700,23900,ford,transit,2019,9420.0,white,south carolina
+701,23700,ford,transit,2019,16829.0,white,south carolina
+702,24300,ford,f-150,2018,6290.0,gray,illinois
+703,13900,ford,escape,2018,60715.0,gray,wisconsin
+704,24700,ford,explorer,2018,23350.0,red,illinois
+705,20100,ford,transit,2018,62386.0,white,california
+706,22000,ford,mustang,2018,6248.0,red,illinois
+707,24400,ford,transit,2018,49710.0,white,california
+708,35000,ford,mustang,2018,2042.0,blue,illinois
+709,18600,ford,flex,2019,7742.0,white,florida
+710,22700,ford,transit,2018,39733.0,white,california
+711,17000,ford,door,2014,67542.0,red,illinois
+712,17500,ford,escape,2017,35095.0,gray,wisconsin
+713,23200,ford,f-150,2019,8652.0,white,michigan
+714,30700,ford,explorer,2017,51107.0,red,wisconsin
+715,23500,ford,transit,2019,14987.0,white,michigan
+716,26400,ford,edge,2017,28252.0,blue,wisconsin
+717,23500,ford,transit,2019,16009.0,white,michigan
+718,23600,ford,transit,2019,11004.0,white,michigan
+719,19300,ford,edge,2017,42895.0,gray,wisconsin
+720,23200,ford,f-150,2019,9490.0,white,michigan
+721,13800,ford,door,2017,39027.0,no_color,wisconsin
+722,23600,ford,transit,2019,13466.0,white,michigan
+723,23200,ford,f-150,2019,8737.0,white,michigan
+724,23400,ford,f-150,2019,5562.0,white,michigan
+725,23600,ford,transit,2019,13763.0,white,michigan
+726,23000,ford,f-150,2019,10444.0,white,michigan
+727,25500,ford,door,2017,41696.0,black,wisconsin
+728,23500,ford,transit,2019,15787.0,white,michigan
+729,29900,ford,door,2017,9167.0,white,wisconsin
+730,23200,ford,transit,2019,17541.0,white,michigan
+731,23400,ford,transit,2019,15210.0,white,michigan
+732,24500,ford,transit,2017,54601.0,white,wisconsin
+733,25400,ford,transit,2017,35691.0,white,wisconsin
+734,23000,ford,flex,2017,32788.0,silver,illinois
+735,22400,ford,edge,2016,42925.0,black,wisconsin
+736,22500,ford,edge,2016,37385.0,black,wisconsin
+737,25200,ford,edge,2019,15415.0,gray,virginia
+738,26700,ford,edge,2019,16884.0,black,virginia
+739,30500,ford,door,2016,57936.0,gray,wisconsin
+740,26700,ford,edge,2019,15244.0,black,virginia
+741,25000,ford,edge,2019,19842.0,gray,virginia
+742,30300,ford,f-150,2019,31899.0,white,tennessee
+743,25000,ford,door,2016,69305.0,no_color,illinois
+744,26500,ford,door,2016,46098.0,red,wisconsin
+745,21600,ford,mustang,2019,29457.0,gray,virginia
+746,18800,ford,edge,2016,30765.0,no_color,wisconsin
+747,21500,ford,mustang,2019,29096.0,red,virginia
+748,9000,ford,door,2016,40437.0,no_color,new jersey
+749,19500,ford,door,2015,80354.0,gray,wisconsin
+750,20500,ford,door,2015,51441.0,black,wisconsin
+751,17500,ford,door,2014,92500.0,red,wisconsin
+752,26000,ford,door,2014,66367.0,silver,illinois
+753,25500,ford,transit,2019,11251.0,white,illinois
+754,22500,ford,door,2014,43646.0,black,wisconsin
+755,8300,ford,door,2012,138328.0,white,wisconsin
+756,19300,ford,fusion,2019,23740.0,black,mississippi
+757,16400,ford,fusion,2019,36064.0,gray,alabama
+758,27300,ford,f-150,2019,18805.0,gray,mississippi
+759,34100,ford,mustang,2019,10483.0,white,mississippi
+760,28600,ford,f-150,2019,17544.0,no_color,california
+761,34100,ford,mustang,2019,10167.0,red,mississippi
+762,24700,ford,edge,2019,26590.0,no_color,california
+763,29000,ford,f-150,2019,12953.0,black,california
+764,25500,ford,edge,2019,26693.0,silver,california
+765,30500,ford,f-150,2019,9915.0,gray,california
+766,16800,ford,fusion,2019,9910.0,red,california
+767,24000,ford,f-150,2019,16765.0,gray,texas
+768,28800,ford,f-150,2019,40785.0,silver,california
+769,26800,ford,door,2015,108998.0,white,new jersey
+770,20000,ford,wagon,2018,55475.0,white,wisconsin
+771,21800,ford,mustang,2018,16079.0,no_color,california
+772,18800,ford,mustang,2018,41147.0,white,california
+773,18800,ford,flex,2018,45798.0,black,california
+774,30200,ford,f-150,2018,21703.0,red,california
+775,27500,ford,explorer,2018,22284.0,black,california
+776,19100,ford,mustang,2018,30594.0,silver,california
+777,17100,ford,flex,2018,52747.0,white,california
+778,13500,ford,escape,2018,21592.0,silver,florida
+779,16400,ford,f-150,2020,10351.0,black,pennsylvania
+780,17000,ford,fusion,2020,1117.0,gray,pennsylvania
+781,26800,ford,door,2017,30113.0,red,california
+782,19400,ford,door,2017,27570.0,white,california
+783,20000,ford,flex,2017,45188.0,silver,california
+784,7000,ford,door,2012,149712.0,silver,texas
+785,18200,ford,fusion,2020,9861.0,black,pennsylvania
+786,14200,ford,fusion,2018,1751.0,red,illinois
+787,26500,ford,van,2020,122.0,white,pennsylvania
+788,12500,ford,door,2017,31871.0,silver,california
+789,21500,ford,f-150,2017,76876.0,gray,california
+790,17300,ford,fusion,2019,28070.0,white,north carolina
+791,27000,ford,explorer,2017,3189.0,silver,california
+792,13000,ford,door,2017,42890.0,gray,california
+793,6000,ford,door,2015,57345.0,gray,missouri
+794,22800,ford,door,2016,67546.0,silver,california
+795,3000,ford,van,2012,137171.0,white,missouri
+796,20000,ford,door,2015,63445.0,gray,california
+797,25300,ford,edge,2019,26422.0,black,pennsylvania
+798,31200,ford,wagon,2019,13058.0,black,pennsylvania
+799,18500,ford,door,2014,45887.0,white,california
+800,15500,ford,escape,2019,21740.0,silver,pennsylvania
+801,30500,ford,wagon,2019,17707.0,black,pennsylvania
+802,31500,ford,wagon,2019,18856.0,black,pennsylvania
+803,11000,ford,door,2013,84752.0,white,new jersey
+804,31500,ford,wagon,2019,16340.0,black,pennsylvania
+805,32000,ford,f-150,2018,17242.0,white,ohio
+806,23900,ford,edge,2019,28733.0,black,pennsylvania
+807,31500,ford,wagon,2019,16019.0,black,pennsylvania
+808,31500,ford,wagon,2019,13633.0,black,pennsylvania
+809,14700,ford,van,2015,37739.0,white,new jersey
+810,31500,ford,wagon,2019,17657.0,black,pennsylvania
+811,8900,ford,door,2014,77392.0,red,new jersey
+812,31500,ford,wagon,2019,15581.0,black,pennsylvania
+813,8900,ford,door,2014,70181.0,black,new jersey
+814,5000,ford,door,2015,136307.0,silver,louisiana
+815,4000,ford,door,2015,102590.0,gray,louisiana
+816,29000,ford,door,2015,90855.0,white,louisiana
+817,7805,ford,door,2015,64495.0,gray,louisiana
+818,22000,ford,mustang,2018,39477.0,gray,texas
+819,33000,ford,door,2015,73849.0,blue,louisiana
+820,16900,ford,door,2015,47866.0,black,louisiana
+821,25500,ford,f-150,2018,49177.0,blue,illinois
+822,25000,ford,f-150,2018,15003.0,white,illinois
+823,29500,ford,f-150,2019,10808.0,silver,pennsylvania
+824,23000,ford,f-150,2019,11263.0,white,oklahoma
+825,25500,ford,f-150,2018,42307.0,black,illinois
+826,15600,ford,escape,2019,37106.0,blue,missouri
+827,23100,ford,f-150,2019,9539.0,white,oklahoma
+828,14500,ford,fusion,2019,20590.0,gray,missouri
+829,23000,ford,f-150,2019,13896.0,white,oklahoma
+830,26500,ford,f-150,2019,9451.0,gray,pennsylvania
+831,18000,ford,fusion,2017,31657.0,red,missouri
+832,31000,ford,f-150,2019,10028.0,black,pennsylvania
+833,22600,ford,f-150,2019,18431.0,white,oklahoma
+834,26000,ford,f-150,2019,9604.0,white,pennsylvania
+835,23200,ford,f-150,2019,9516.0,white,oklahoma
+836,29000,ford,f-150,2019,9718.0,silver,pennsylvania
+837,22800,ford,f-150,2019,16506.0,white,oklahoma
+838,31000,ford,f-150,2019,11028.0,white,pennsylvania
+839,22900,ford,f-150,2019,11313.0,white,oklahoma
+840,28000,ford,f-150,2019,12886.0,silver,pennsylvania
+841,23200,ford,f-150,2019,9556.0,white,oklahoma
+842,27000,ford,f-150,2019,13269.0,blue,pennsylvania
+843,22800,ford,f-150,2019,16770.0,white,oklahoma
+844,31500,ford,f-150,2019,13526.0,red,pennsylvania
+845,23400,ford,transit,2019,16391.0,white,oklahoma
+846,28000,ford,f-150,2019,11437.0,white,pennsylvania
+847,23400,ford,transit,2019,17964.0,white,oklahoma
+848,28000,ford,f-150,2018,5440.0,blue,texas
+849,24900,ford,f-150,2019,13035.0,white,pennsylvania
+850,23500,ford,transit,2019,15759.0,white,oklahoma
+851,28700,ford,f-150,2019,13673.0,white,pennsylvania
+852,16000,ford,fusion,2018,24480.0,silver,oregon
+853,31000,ford,f-150,2019,13230.0,white,pennsylvania
+854,16500,ford,f-150,2017,137789.0,white,oregon
+855,28500,ford,f-150,2019,13516.0,white,pennsylvania
+856,10800,ford,escape,2017,81660.0,black,oregon
+857,28500,ford,f-150,2019,11763.0,white,pennsylvania
+858,31000,ford,f-150,2019,13458.0,white,pennsylvania
+859,7800,ford,door,2016,104867.0,black,oregon
+860,28500,ford,f-150,2019,14004.0,white,pennsylvania
+861,9500,ford,door,2016,69829.0,silver,oregon
+862,28500,ford,f-150,2019,13405.0,silver,pennsylvania
+863,14500,ford,door,2016,96151.0,black,oregon
+864,25000,ford,f-150,2019,12688.0,black,pennsylvania
+865,14500,ford,door,2016,116519.0,white,oregon
+866,28500,ford,f-150,2019,12260.0,white,pennsylvania
+867,12100,ford,door,2016,29367.0,silver,oregon
+868,29400,ford,f-150,2019,18982.0,white,pennsylvania
+869,24700,ford,f-150,2019,23795.0,silver,california
+870,8700,ford,door,2016,76572.0,gray,oregon
+871,29500,ford,f-150,2019,15964.0,white,pennsylvania
+872,25800,ford,f-150,2019,28117.0,silver,california
+873,17500,ford,door,2016,116730.0,blue,oregon
+874,22900,ford,f-150,2019,27794.0,black,california
+875,19500,ford,edge,2016,56995.0,black,oregon
+876,29500,ford,f-150,2019,16625.0,gray,pennsylvania
+877,24500,ford,f-150,2019,27689.0,gray,california
+878,11000,ford,door,2016,39851.0,black,oregon
+879,22400,ford,f-150,2019,31727.0,black,pennsylvania
+880,15700,ford,escape,2019,31586.0,gray,california
+881,11000,ford,door,2015,33717.0,black,oregon
+882,28000,ford,f-150,2019,18418.0,black,pennsylvania
+883,13500,ford,fusion,2019,39013.0,black,california
+884,7300,ford,f-150,2013,125451.0,white,oregon
+885,25100,ford,f-150,2019,21346.0,black,pennsylvania
+886,24100,ford,transit,2019,21150.0,white,california
+887,6500,ford,f-150,2014,103862.0,white,oregon
+888,10500,ford,f-150,2019,22001.0,red,pennsylvania
+889,16900,ford,fusion,2019,31261.0,gray,california
+890,6000,ford,door,2013,140870.0,white,oregon
+891,28500,ford,f-150,2019,14358.0,white,pennsylvania
+892,16200,ford,fusion,2019,41672.0,silver,california
+893,6500,ford,f-150,2013,95655.0,white,oregon
+894,24500,ford,flex,2019,19493.0,gray,pennsylvania
+895,16500,ford,fusion,2019,36956.0,black,california
+896,10400,ford,fusion,2019,13085.0,gray,pennsylvania
+897,22800,ford,explorer,2018,36124.0,silver,oklahoma
+898,26500,ford,flex,2019,19147.0,white,pennsylvania
+899,23800,ford,flex,2019,24993.0,red,pennsylvania
+900,24700,ford,f-150,2018,41127.0,white,oklahoma
+901,12400,ford,fusion,2019,32365.0,black,pennsylvania
+902,16600,ford,fusion,2019,27774.0,white,pennsylvania
+903,11200,ford,door,2015,105027.0,blue,oklahoma
+904,15900,ford,fusion,2019,27806.0,silver,pennsylvania
+905,7700,ford,door,2015,54198.0,blue,oklahoma
+906,15100,ford,fusion,2019,30181.0,white,pennsylvania
+907,7200,ford,door,2013,82670.0,black,oklahoma
+908,16000,ford,fusion,2019,34734.0,gray,pennsylvania
+909,5500,ford,door,2015,116539.0,silver,oklahoma
+910,28500,ford,door,2016,96129.0,white,oklahoma
+911,15000,ford,door,2015,128505.0,white,oklahoma
+912,22200,ford,transit,2019,15792.0,white,pennsylvania
+913,10000,ford,door,2013,119869.0,silver,florida
+914,5700,ford,door,2013,89490.0,white,florida
+915,21000,ford,transit,2019,40772.0,white,pennsylvania
+916,22500,ford,transit,2019,25623.0,white,pennsylvania
+917,29000,ford,f-150,2019,11669.0,white,colorado
+918,13200,ford,door,2013,138524.0,black,florida
+919,25500,ford,transit,2019,13644.0,white,pennsylvania
+920,25700,ford,door,2016,147935.0,white,texas
+921,31500,ford,wagon,2019,20357.0,black,pennsylvania
+922,11000,ford,door,2017,43532.0,gray,pennsylvania
+923,18288,ford,doors,2015,45218.0,gray,new york
+924,20000,ford,door,2017,85688.0,white,florida
+925,18299,ford,doors,2015,59869.0,silver,pennsylvania
+926,10000,ford,escape,2017,35021.0,silver,colorado
+927,4100,ford,door,2012,100264.0,silver,pennsylvania
+928,31500,ford,wagon,2019,23222.0,black,pennsylvania
+929,13500,ford,door,2016,87686.0,white,colorado
+930,22800,ford,wagon,2019,32526.0,white,pennsylvania
+931,11300,ford,door,2016,69402.0,white,colorado
+932,32700,ford,door,2014,76336.0,white,texas
+933,21900,ford,wagon,2019,47628.0,white,pennsylvania
+934,9800,ford,door,2014,74181.0,black,colorado
+935,11000,ford,door,2014,77386.0,white,texas
+936,5500,ford,door,2013,109600.0,silver,texas
+937,11200,ford,door,2013,122861.0,blue,texas
+938,23400,ford,f-150,2019,12198.0,white,missouri
+939,22900,ford,f-150,2019,15656.0,white,missouri
+940,20000,ford,fusion,2020,23984.0,silver,virginia
+941,22900,ford,f-150,2019,15821.0,white,missouri
+942,27000,ford,mustang,2020,12748.0,red,virginia
+943,20600,ford,fusion,2020,17858.0,black,virginia
+944,23500,ford,f-150,2019,6711.0,white,missouri
+945,23600,ford,transit,2019,15820.0,white,missouri
+946,33500,ford,wagon,2019,6140.0,silver,oklahoma
+947,24400,ford,edge,2019,25552.0,gray,virginia
+948,26500,ford,door,2014,148442.0,silver,west virginia
+949,9300,ford,door,2013,82072.0,silver,west virginia
+950,13500,ford,door,2012,104559.0,white,west virginia
+951,27600,ford,edge,2019,13265.0,silver,virginia
+952,7400,ford,door,2013,133314.0,red,west virginia
+953,26500,ford,edge,2019,22458.0,gray,virginia
+954,26000,ford,door,2013,70106.0,white,west virginia
+955,24500,ford,edge,2019,23712.0,black,virginia
+956,17500,ford,edge,2015,59726.0,gray,missouri
+957,17000,ford,escape,2019,16448.0,gray,virginia
+958,22500,ford,door,2015,28801.0,black,oklahoma
+959,34500,ford,f-150,2019,28938.0,gray,michigan
+960,7500,ford,door,2014,93832.0,silver,missouri
+961,34500,ford,f-150,2019,25046.0,white,michigan
+962,25000,ford,edge,2019,22318.0,black,virginia
+963,23700,ford,edge,2019,27413.0,gray,virginia
+964,28600,ford,explorer,2019,39733.0,silver,michigan
+965,25300,ford,explorer,2019,44383.0,silver,michigan
+966,24900,ford,flex,2019,19151.0,white,virginia
+967,23400,ford,fusion,2020,2452.0,gray,michigan
+968,14600,ford,fusion,2019,36252.0,silver,virginia
+969,25500,ford,f-150,2019,27136.0,silver,virginia
+970,14700,ford,fusion,2019,35951.0,white,virginia
+971,33700,ford,f-150,2019,35221.0,white,virginia
+972,33400,ford,f-150,2019,33808.0,gray,virginia
+973,34000,ford,f-150,2019,32022.0,black,michigan
+974,17500,ford,fusion,2019,34173.0,white,virginia
+975,14100,ford,fusion,2019,24272.0,white,michigan
+976,30000,ford,f-150,2019,19055.0,black,virginia
+977,16500,ford,fusion,2019,34822.0,red,michigan
+978,30600,ford,f-150,2019,15422.0,gray,virginia
+979,26000,ford,wagon,2019,23019.0,white,virginia
+980,24300,ford,edge,2019,18762.0,silver,nevada
+981,29000,ford,explorer,2019,28854.0,no_color,texas
+982,15300,ford,escape,2019,17392.0,black,nevada
+983,24700,ford,edge,2019,27082.0,black,nevada
+984,14400,ford,escape,2019,17510.0,black,texas
+985,17200,ford,door,2014,96076.0,black,florida
+986,16200,ford,escape,2019,25090.0,black,nevada
+987,26000,ford,door,2017,99923.0,white,texas
+988,5000,ford,door,2015,80612.0,black,texas
+989,7500,ford,door,2015,92165.0,white,texas
+990,14700,ford,escape,2019,44778.0,silver,nevada
+991,6400,ford,door,2013,91652.0,red,texas
+992,23000,ford,door,2013,88781.0,white,texas
+993,13900,ford,escape,2019,36978.0,blue,nevada
+994,16300,ford,escape,2019,37044.0,white,nevada
+995,12800,ford,door,2017,33763.0,red,wisconsin
+996,25500,ford,explorer,2019,29850.0,gray,nevada
+997,17800,ford,escape,2019,26675.0,black,virginia
+998,25700,ford,f-150,2019,17828.0,black,nevada
+999,17200,ford,escape,2019,29632.0,white,virginia
+1000,28800,ford,f-150,2019,21976.0,white,nevada
+1001,13600,ford,escape,2019,49254.0,gray,pennsylvania
+1002,24200,ford,f-150,2019,51589.0,black,nevada
+1003,26500,ford,f-150,2019,11734.0,gray,pennsylvania
+1004,24700,ford,explorer,2019,41628.0,silver,nevada
+1005,31800,ford,f-150,2019,26591.0,red,nevada
+1006,24500,ford,f-150,2019,22906.0,white,nevada
+1007,26000,ford,f-150,2019,33462.0,white,virginia
+1008,21000,ford,f-150,2017,32747.0,gray,pennsylvania
+1009,22500,ford,f-150,2019,33717.0,white,nevada
+1010,7700,ford,door,2017,85218.0,black,pennsylvania
+1011,23100,ford,f-150,2019,23512.0,red,nevada
+1012,9200,ford,door,2017,57853.0,white,pennsylvania
+1013,19600,ford,mustang,2019,33324.0,gray,nevada
+1014,11700,ford,door,2016,23803.0,black,pennsylvania
+1015,27300,ford,mustang,2019,31260.0,blue,nevada
+1016,14300,ford,edge,2016,69428.0,white,pennsylvania
+1017,23600,ford,transit,2019,15755.0,white,nevada
+1018,6200,ford,door,2016,90946.0,gray,pennsylvania
+1019,22400,ford,wagon,2019,51370.0,white,nevada
+1020,5700,ford,door,2016,99941.0,black,pennsylvania
+1021,23600,ford,transit,2019,15456.0,white,nevada
+1022,4600,ford,door,2016,141603.0,gray,pennsylvania
+1023,10700,ford,van,2016,99544.0,white,pennsylvania
+1024,31600,ford,mustang,2019,16293.0,black,georgia
+1025,12600,ford,escape,2018,40375.0,gray,nevada
+1026,5300,ford,door,2013,143191.0,gray,pennsylvania
+1027,13000,ford,edge,2015,59656.0,gray,florida
+1028,24600,ford,edge,2019,20628.0,black,georgia
+1029,14500,ford,door,2014,71205.0,black,florida
+1030,24300,ford,explorer,2018,26186.0,silver,nevada
+1031,12300,ford,fusion,2018,38157.0,white,nevada
+1032,14800,ford,door,2016,30325.0,blue,new jersey
+1033,17100,ford,mustang,2018,31561.0,silver,nevada
+1034,6800,ford,door,2016,66655.0,no_color,new jersey
+1035,20300,ford,explorer,2018,19029.0,blue,connecticut
+1036,26300,ford,f-150,2018,11739.0,silver,new york
+1037,22500,ford,door,2016,50423.0,silver,nevada
+1038,20400,ford,door,2017,59798.0,gray,florida
+1039,12100,ford,escape,2017,32284.0,silver,new york
+1040,24000,ford,door,2016,40371.0,blue,florida
+1041,9500,ford,escape,2017,107569.0,white,new york
+1042,9000,ford,door,2017,96451.0,silver,new jersey
+1043,9800,ford,escape,2017,94851.0,white,new jersey
+1044,7800,ford,door,2017,108727.0,silver,connecticut
+1045,17200,ford,f-150,2017,91979.0,white,new york
+1046,18800,ford,explorer,2017,76258.0,gray,new york
+1047,9800,ford,door,2014,147574.0,white,california
+1048,7000,ford,door,2013,104764.0,gray,florida
+1049,23400,ford,transit,2019,13822.0,white,texas
+1050,30700,ford,transit,2019,5250.0,white,texas
+1051,15600,ford,escape,2019,33451.0,black,south carolina
+1052,22600,ford,f-150,2019,14291.0,white,texas
+1053,22900,ford,f-150,2019,16725.0,white,south carolina
+1054,22800,ford,f-150,2019,13002.0,white,texas
+1055,22700,ford,f-150,2019,18902.0,white,south carolina
+1056,23000,ford,f-150,2019,9732.0,white,texas
+1057,22700,ford,f-150,2019,18947.0,white,south carolina
+1058,23000,ford,f-150,2019,8402.0,white,north carolina
+1059,34400,ford,f-150,2019,17450.0,gray,south carolina
+1060,23100,ford,f-150,2019,15848.0,white,south carolina
+1061,23300,ford,f-150,2019,10770.0,white,south carolina
+1062,22600,ford,f-150,2019,14587.0,white,north carolina
+1063,4500,ford,door,2016,98625.0,gray,mississippi
+1064,23000,ford,f-150,2019,10916.0,white,north carolina
+1065,8000,ford,door,2014,107173.0,white,mississippi
+1066,9400,ford,door,2017,43056.0,no_color,south carolina
+1067,23000,ford,f-150,2019,10655.0,white,north carolina
+1068,22600,ford,transit,2019,14231.0,white,north carolina
+1069,23000,ford,transit,2019,8985.0,white,north carolina
+1070,5200,ford,door,2016,84338.0,black,south carolina
+1071,19200,ford,door,2017,104290.0,gray,texas
+1072,10100,ford,door,2017,45592.0,red,texas
+1073,6200,ford,door,2015,103960.0,black,south carolina
+1074,14000,ford,explorer,2016,110333.0,white,texas
+1075,5000,ford,door,2015,138516.0,gray,south carolina
+1076,9200,ford,door,2016,49094.0,red,texas
+1077,14700,ford,door,2016,97526.0,black,texas
+1078,3000,ford,door,2014,87420.0,silver,south carolina
+1079,30200,ford,door,2015,67052.0,red,texas
+1080,3800,ford,door,2013,58913.0,black,south carolina
+1081,21500,ford,van,2015,14482.0,no_color,texas
+1082,4900,ford,door,2016,57084.0,white,california
+1083,11200,ford,door,2014,97320.0,no_color,texas
+1084,10400,ford,door,2014,80652.0,white,california
+1085,13200,ford,door,2014,99816.0,black,texas
+1086,5200,ford,door,2013,115429.0,silver,texas
+1087,10500,ford,door,2015,85549.0,red,new jersey
+1088,21200,ford,door,2014,130168.0,white,texas
+1089,23500,ford,door,2013,80090.0,white,california
+1090,4700,ford,door,2013,118593.0,white,texas
+1091,11100,ford,door,2014,143704.0,blue,texas
+1092,22000,ford,door,2015,53507.0,white,colorado
+1093,14000,ford,door,2013,48408.0,black,colorado
+1094,9200,ford,door,2013,109672.0,white,texas
+1095,23300,ford,edge,2019,28549.0,silver,minnesota
+1096,11200,ford,door,2012,67140.0,blue,texas
+1097,11300,ford,escape,2018,42168.0,gray,north carolina
+1098,15900,ford,escape,2019,26040.0,white,minnesota
+1099,24700,ford,edge,2019,31794.0,blue,florida
+1100,29000,ford,door,2017,42291.0,black,tennessee
+1101,16800,ford,escape,2019,13155.0,white,florida
+1102,16500,ford,escape,2019,18454.0,white,florida
+1103,27900,ford,explorer,2019,28922.0,gray,florida
+1104,23700,ford,edge,2019,23534.0,gray,florida
+1105,15600,ford,escape,2019,28669.0,black,florida
+1106,25000,ford,explorer,2017,32454.0,red,michigan
+1107,28500,ford,explorer,2019,21800.0,black,florida
+1108,19990,ford,doors,2016,23796.0,black,connecticut
+1109,27999,ford,doors,2016,10700.0,gray,massachusetts
+1110,24700,ford,edge,2019,8806.0,black,florida
+1111,13995,ford,doors,2016,105115.0,gray,new jersey
+1112,8900,ford,door,2014,53102.0,silver,florida
+1113,15800,ford,escape,2019,26637.0,black,florida
+1114,18500,ford,doors,2016,45814.0,black,new york
+1115,32000,ford,f-150,2019,17310.0,red,minnesota
+1116,28300,ford,explorer,2019,24116.0,gray,florida
+1117,13800,ford,fusion,2019,38964.0,blue,minnesota
+1118,16700,ford,fusion,2019,36896.0,black,minnesota
+1119,28900,ford,f-150,2019,24795.0,black,florida
+1120,27100,ford,f-150,2019,28692.0,silver,minnesota
+1121,13388,ford,door,2012,113821.0,black,louisiana
+1122,26000,ford,f-150,2019,19793.0,blue,florida
+1123,23400,ford,flex,2019,24987.0,black,minnesota
+1124,29800,ford,mustang,2016,18367.0,blue,illinois
+1125,23700,ford,flex,2019,14109.0,gray,florida
+1126,33995,ford,doors,2016,27369.0,black,new jersey
+1127,23500,ford,flex,2019,30208.0,white,minnesota
+1128,32500,ford,explorer,2019,24024.0,black,florida
+1129,32500,ford,explorer,2019,24126.0,black,florida
+1130,26900,ford,f-150,2019,31713.0,black,minnesota
+1131,11200,ford,edge,2016,109996.0,gray,new york
+1132,21000,ford,doors,2018,6821.0,red,new york
+1133,32000,ford,f-150,2019,17867.0,red,minnesota
+1134,7300,ford,door,2016,110253.0,black,connecticut
+1135,12800,ford,escape,2018,39364.0,black,missouri
+1136,24190,ford,doors,2018,4018.0,blue,massachusetts
+1137,29100,ford,f-150,2019,21054.0,red,minnesota
+1138,29000,ford,door,2017,48309.0,red,massachusetts
+1139,17300,ford,door,2016,68666.0,black,new york
+1140,31000,ford,f-150,2019,13600.0,white,minnesota
+1141,8600,ford,door,2016,72607.0,silver,new jersey
+1142,23500,ford,flex,2019,31491.0,gray,minnesota
+1143,26100,ford,f-150,2018,32149.0,white,mississippi
+1144,20995,ford,doors,2018,36637.0,white,new york
+1145,29300,ford,f-150,2019,17000.0,white,minnesota
+1146,33100,ford,f-150,2018,15960.0,gray,mississippi
+1147,13800,ford,door,2016,40774.0,gray,new jersey
+1148,19498,ford,doors,2018,40338.0,black,new york
+1149,14900,ford,fusion,2019,40505.0,gray,minnesota
+1150,8700,ford,door,2016,30735.0,black,massachusetts
+1151,20600,ford,mustang,2019,33965.0,gray,florida
+1152,19995,ford,doors,2018,42470.0,white,new york
+1153,14900,ford,fusion,2019,40670.0,silver,minnesota
+1154,19500,ford,door,2016,41233.0,black,massachusetts
+1155,24500,ford,wagon,2019,13162.0,white,florida
+1156,15000,ford,fusion,2018,38744.0,white,california
+1157,26985,ford,doors,2018,14023.0,black,new york
+1158,31000,ford,f-150,2019,9741.0,white,minnesota
+1159,24300,ford,explorer,2017,31017.0,silver,mississippi
+1160,16800,ford,fusion,2019,37786.0,gray,florida
+1161,17200,ford,mustang,2018,32415.0,white,california
+1162,24300,ford,wagon,2019,29305.0,white,minnesota
+1163,26400,ford,explorer,2017,51309.0,white,mississippi
+1164,16800,ford,fusion,2019,38001.0,black,florida
+1165,15500,ford,escape,2018,18849.0,black,california
+1166,19440,ford,doors,2018,43269.0,silver,new york
+1167,16700,ford,fusion,2019,36989.0,silver,minnesota
+1168,29000,ford,door,2017,29320.0,blue,alabama
+1169,17200,ford,mustang,2018,32938.0,white,california
+1170,29400,ford,mustang,2019,25011.0,white,florida
+1171,12600,ford,door,2014,48188.0,black,new jersey
+1172,20500,ford,mustang,2019,35930.0,black,florida
+1173,33100,ford,door,2017,103002.0,red,mississippi
+1174,18799,ford,doors,2015,137728.0,red,connecticut
+1175,26100,ford,wagon,2017,58118.0,white,mississippi
+1176,15400,ford,fusion,2019,31124.0,white,florida
+1177,31831,ford,doors,2018,14059.0,black,new jersey
+1178,15400,ford,door,2013,123983.0,silver,connecticut
+1179,23985,ford,doors,2015,51884.0,white,new jersey
+1180,27995,ford,doors,2018,4181.0,gray,pennsylvania
+1181,12995,ford,doors,2015,102800.0,blue,new jersey
+1182,25200,ford,door,2016,100943.0,white,alabama
+1183,32700,ford,door,2016,61477.0,silver,alabama
+1184,13995,ford,doors,2015,73891.0,silver,new york
+1185,15495,ford,doors,2015,48374.0,white,new york
+1186,21500,ford,door,2012,11990.0,red,florida
+1187,7200,ford,door,2016,64111.0,black,alabama
+1188,17589,ford,doors,2015,28771.0,red,new jersey
+1189,31700,ford,door,2015,126708.0,white,alabama
+1190,18100,ford,van,2015,106546.0,white,mississippi
+1191,14495,ford,doors,2015,54778.0,white,new jersey
+1192,15000,ford,fusion,2020,11729.0,white,illinois
+1193,26400,ford,door,2015,85197.0,black,mississippi
+1194,27990,ford,doors,2015,19130.0,red,massachusetts
+1195,15300,ford,doors,2015,59646.0,silver,massachusetts
+1196,22000,ford,door,2014,68418.0,black,mississippi
+1197,23999,ford,doors,2015,8400.0,black,new jersey
+1198,16488,ford,doors,2015,45084.0,gray,new york
+1199,12784,ford,doors,2015,67037.0,gray,new jersey
+1200,23400,ford,doors,2015,64135.0,black,new jersey
+1201,34977,ford,doors,2015,46540.0,black,pennsylvania
+1202,15995,ford,doors,2015,69438.0,black,new york
+1203,13487,ford,doors,2015,96246.0,gray,new york
+1204,18707,ford,doors,2015,69719.0,white,connecticut
+1205,15600,ford,doors,2015,54325.0,black,new york
+1206,16080,ford,doors,2015,31793.0,blue,connecticut
+1207,15268,ford,doors,2015,74361.0,black,new york
+1208,18497,ford,doors,2015,34011.0,black,massachusetts
+1209,10000,ford,escape,2019,19993.0,silver,illinois
+1210,17150,ford,doors,2015,67091.0,black,new jersey
+1211,26000,ford,flex,2019,18708.0,black,illinois
+1212,15500,ford,flex,2019,12393.0,gray,illinois
+1213,16888,ford,doors,2015,56329.0,black,new york
+1214,28000,ford,f-150,2019,12155.0,silver,illinois
+1215,15500,ford,mustang,2019,25810.0,red,illinois
+1216,15995,ford,doors,2015,23878.0,blue,new york
+1217,16000,ford,transit,2019,15460.0,white,illinois
+1218,12995,ford,doors,2015,65342.0,black,new york
+1219,17500,ford,door,2016,93164.0,white,florida
+1220,21995,ford,doors,2015,35629.0,blue,massachusetts
+1221,13000,ford,door,2017,33660.0,black,illinois
+1222,14247,ford,doors,2015,61168.0,blue,pennsylvania
+1223,23500,ford,door,2017,42241.0,gray,illinois
+1224,25000,ford,door,2017,45003.0,red,illinois
+1225,22500,ford,edge,2018,24747.0,gray,colorado
+1226,29500,ford,door,2017,48707.0,black,illinois
+1227,24000,ford,f-150,2017,50874.0,black,illinois
+1228,20500,ford,f-150,2017,70727.0,black,illinois
+1229,27200,ford,explorer,2019,29382.0,gray,north carolina
+1230,24900,ford,f-150,2018,33194.0,white,virginia
+1231,24500,ford,door,2017,52084.0,white,illinois
+1232,28000,ford,door,2017,40286.0,white,illinois
+1233,27000,ford,f-150,2017,55420.0,black,illinois
+1234,34000,ford,wagon,2018,10282.0,black,virginia
+1235,33000,ford,explorer,2018,7258.0,black,pennsylvania
+1236,10200,ford,escape,2018,93350.0,black,pennsylvania
+1237,25600,ford,explorer,2019,37166.0,gray,north carolina
+1238,16300,ford,f-150,2018,69480.0,white,texas
+1239,26500,ford,door,2016,34679.0,white,illinois
+1240,25900,ford,explorer,2019,32796.0,white,north carolina
+1241,22500,ford,door,2016,67979.0,black,illinois
+1242,29000,ford,f-150,2018,18690.0,white,pennsylvania
+1243,10500,ford,door,2016,54251.0,red,illinois
+1244,32000,ford,f-150,2018,32262.0,white,pennsylvania
+1245,4000,ford,door,2015,90740.0,red,illinois
+1246,19500,ford,wagon,2018,49985.0,white,wisconsin
+1247,11700,ford,escape,2015,52340.0,black,illinois
+1248,34000,ford,f-150,2018,21406.0,black,pennsylvania
+1249,21500,ford,door,2015,41293.0,black,illinois
+1250,29500,ford,f-150,2018,12271.0,gray,pennsylvania
+1251,32500,ford,f-150,2018,12717.0,red,pennsylvania
+1252,29000,ford,mustang,2019,12764.0,black,texas
+1253,30000,ford,f-150,2018,19951.0,red,pennsylvania
+1254,26000,ford,explorer,2019,32458.0,white,north carolina
+1255,26000,ford,f-150,2018,21616.0,gray,pennsylvania
+1256,18500,ford,escape,2019,17755.0,blue,north carolina
+1257,12000,ford,door,2017,73846.0,gray,texas
+1258,30000,ford,f-150,2018,15771.0,blue,pennsylvania
+1259,14700,ford,escape,2019,29168.0,silver,north carolina
+1260,26550,ford,f-150,2018,15296.0,white,pennsylvania
+1261,27000,ford,explorer,2019,30476.0,white,north carolina
+1262,34000,ford,door,2016,131754.0,white,texas
+1263,27500,ford,f-150,2018,26095.0,gray,pennsylvania
+1264,25500,ford,f-150,2018,22107.0,gray,pennsylvania
+1265,4000,ford,door,2015,112810.0,gray,texas
+1266,25700,ford,f-150,2018,19058.0,white,pennsylvania
+1267,29000,ford,door,2015,109137.0,white,texas
+1268,30500,ford,f-150,2018,24058.0,black,pennsylvania
+1269,30000,ford,f-150,2018,6967.0,black,pennsylvania
+1270,9000,ford,door,2014,118340.0,gray,texas
+1271,19000,ford,f-150,2018,36145.0,white,pennsylvania
+1272,25800,ford,explorer,2019,33942.0,silver,north carolina
+1273,26500,ford,f-150,2018,38868.0,gray,pennsylvania
+1274,29300,ford,explorer,2019,36190.0,red,north carolina
+1275,25400,ford,explorer,2019,39267.0,white,north carolina
+1276,26000,ford,f-150,2018,33350.0,gray,pennsylvania
+1277,25900,ford,f-150,2018,34081.0,red,pennsylvania
+1278,27000,ford,f-150,2018,40577.0,black,pennsylvania
+1279,28000,ford,f-150,2018,30620.0,red,pennsylvania
+1280,25700,ford,flex,2019,22019.0,black,north carolina
+1281,27500,ford,f-150,2018,36742.0,black,pennsylvania
+1282,25500,ford,f-150,2018,43406.0,blue,pennsylvania
+1283,20500,ford,flex,2019,34696.0,white,north carolina
+1284,21500,ford,f-150,2018,43519.0,gray,pennsylvania
+1285,23900,ford,f-150,2018,41627.0,white,pennsylvania
+1286,26900,ford,f-150,2018,41496.0,silver,pennsylvania
+1287,25500,ford,flex,2019,20613.0,gray,north carolina
+1288,27000,ford,f-150,2018,33475.0,blue,pennsylvania
+1289,14400,ford,fusion,2018,38148.0,black,pennsylvania
+1290,19000,ford,flex,2019,39976.0,red,north carolina
+1291,14000,ford,fusion,2018,50513.0,white,pennsylvania
+1292,13600,ford,fusion,2019,31408.0,gray,north carolina
+1293,19200,ford,transit,2018,41351.0,white,pennsylvania
+1294,13600,ford,fusion,2019,32038.0,red,north carolina
+1295,18600,ford,transit,2018,38279.0,white,pennsylvania
+1296,13700,ford,fusion,2019,30471.0,red,north carolina
+1297,18200,ford,transit,2018,41569.0,white,pennsylvania
+1298,13800,ford,fusion,2019,31142.0,silver,north carolina
+1299,22000,ford,wagon,2018,31598.0,black,pennsylvania
+1300,13700,ford,fusion,2019,31380.0,silver,north carolina
+1301,28000,ford,wagon,2018,22179.0,black,pennsylvania
+1302,13800,ford,fusion,2019,29266.0,white,north carolina
+1303,18600,ford,transit,2018,42156.0,white,pennsylvania
+1304,13700,ford,fusion,2019,30875.0,red,north carolina
+1305,13700,ford,fusion,2019,30609.0,silver,north carolina
+1306,13800,ford,fusion,2019,29508.0,silver,north carolina
+1307,13900,ford,fusion,2019,29633.0,white,north carolina
+1308,13900,ford,fusion,2019,27461.0,no_color,north carolina
+1309,13600,ford,fusion,2019,32154.0,gray,north carolina
+1310,13800,ford,fusion,2019,29345.0,white,north carolina
+1311,13800,ford,fusion,2019,30054.0,silver,north carolina
+1312,13800,ford,fusion,2019,30902.0,no_color,north carolina
+1313,5500,nissan,sentra,2018,31231.0,silver,north carolina
+1314,11450,nissan,sport,2018,35374.0,white,florida
+1315,11000,nissan,sport,2018,36715.0,black,florida
+1316,11450,nissan,sport,2018,33437.0,red,florida
+1317,11000,nissan,sport,2018,36788.0,black,florida
+1318,11200,nissan,sport,2018,35491.0,black,florida
+1319,11400,nissan,sport,2018,33644.0,black,florida
+1320,11450,nissan,sport,2018,35831.0,gray,florida
+1321,11050,nissan,sport,2018,35050.0,gray,florida
+1322,11400,nissan,sport,2018,34924.0,gray,florida
+1323,11050,nissan,sport,2018,34962.0,silver,florida
+1324,10850,nissan,sport,2018,39985.0,gray,florida
+1325,10900,nissan,sport,2018,38816.0,red,florida
+1326,10450,nissan,sport,2018,41579.0,red,florida
+1327,10800,nissan,sport,2018,40455.0,gray,florida
+1328,10850,nissan,sport,2018,39996.0,white,florida
+1329,10800,nissan,sport,2018,41077.0,black,florida
+1330,10850,nissan,sport,2018,39183.0,gray,florida
+1331,10800,nissan,sport,2018,40478.0,black,florida
+1332,10900,nissan,sport,2018,38806.0,white,florida
+1333,10400,nissan,sport,2018,45331.0,blue,florida
+1334,10500,nissan,sport,2018,43531.0,blue,florida
+1335,10800,nissan,sport,2018,41033.0,silver,florida
+1336,10800,nissan,sport,2018,40332.0,gray,florida
+1337,11100,nissan,rogue,2019,22305.0,blue,arizona
+1338,9000,nissan,versa,2019,27611.0,gray,arizona
+1339,14900,nissan,rogue,2019,26516.0,silver,arizona
+1340,4600,nissan,rogue,2019,31397.0,blue,arizona
+1341,6400,nissan,versa,2019,18300.0,red,arizona
+1342,7800,nissan,versa,2019,15832.0,black,arizona
+1343,12300,nissan,sport,2019,31939.0,white,arizona
+1344,10900,nissan,sentra,2019,31037.0,gray,arizona
+1345,8500,nissan,versa,2019,22521.0,white,arizona
+1346,7300,nissan,versa,2019,31335.0,white,arizona
+1347,5900,nissan,versa,2019,28315.0,red,arizona
+1348,14400,nissan,rogue,2018,45732.0,black,wisconsin
+1349,13400,nissan,rogue,2017,45826.0,silver,wisconsin
+1350,12500,nissan,door,2017,36844.0,white,wisconsin
+1351,6500,nissan,door,2013,104343.0,gray,illinois
+1352,8800,nissan,versa,2018,34761.0,white,florida
+1353,12800,nissan,rogue,2018,32656.0,blue,florida
+1354,8800,nissan,versa,2018,34837.0,red,florida
+1355,10800,nissan,door,2017,41729.0,blue,florida
+1356,7500,nissan,door,2017,74859.0,gray,connecticut
+1357,10500,nissan,door,2017,59508.0,black,connecticut
+1358,7800,nissan,versa,2018,54815.0,red,california
+1359,13500,nissan,door,2016,53011.0,red,louisiana
+1360,8000,nissan,versa,2018,56255.0,silver,california
+1361,3300,nissan,door,2013,100225.0,gray,louisiana
+1362,7200,nissan,sentra,2017,54117.0,silver,connecticut
+1363,8000,nissan,door,2017,54119.0,gray,california
+1364,14000,nissan,rogue,2018,37655.0,white,florida
+1365,3500,nissan,door,2015,101178.0,gray,california
+1366,12500,nissan,sport,2018,43187.0,gray,california
+1367,8000,nissan,versa,2018,53903.0,gray,california
+1368,8300,nissan,versa,2018,48977.0,white,california
+1369,7500,nissan,door,2016,77504.0,blue,missouri
+1370,8000,nissan,versa,2018,50871.0,blue,california
+1371,3500,nissan,door,2012,107734.0,silver,missouri
+1372,8000,nissan,versa,2018,53098.0,white,california
+1373,7800,nissan,versa,2018,51552.0,red,california
+1374,8000,nissan,versa,2018,54692.0,white,california
+1375,8000,nissan,versa,2018,51654.0,blue,california
+1376,7500,nissan,versa,2018,65184.0,red,california
+1377,21100,nissan,rogue,2020,19597.0,silver,south carolina
+1378,16200,nissan,rogue,2019,34122.0,silver,california
+1379,14700,nissan,rogue,2020,15387.0,gray,pennsylvania
+1380,7500,nissan,door,2016,58126.0,black,texas
+1381,9500,nissan,sentra,2018,42782.0,black,new jersey
+1382,22800,nissan,door,2015,35902.0,blue,alabama
+1383,4700,nissan,door,2012,100079.0,black,alabama
+1384,14500,nissan,rogue,2017,8677.0,blue,tennessee
+1385,12000,nissan,rogue,2020,11583.0,blue,ohio
+1386,7500,nissan,door,2016,19723.0,black,georgia
+1387,13200,nissan,sport,2018,35870.0,black,pennsylvania
+1388,18200,nissan,sport,2018,28009.0,black,tennessee
+1389,18700,nissan,rogue,2018,41366.0,silver,virginia
+1390,12900,nissan,door,2016,98354.0,red,new jersey
+1391,16000,nissan,rogue,2018,39598.0,no_color,virginia
+1392,19400,nissan,rogue,2020,21009.0,black,minnesota
+1393,10900,nissan,sentra,2018,28880.0,silver,tennessee
+1394,15800,nissan,sport,2018,28626.0,black,virginia
+1395,19800,nissan,rogue,2020,14850.0,silver,minnesota
+1396,19000,nissan,rogue,2018,41096.0,black,virginia
+1397,18000,nissan,rogue,2020,12748.0,black,minnesota
+1398,19800,nissan,rogue,2020,14531.0,blue,minnesota
+1399,19700,nissan,rogue,2020,15931.0,black,minnesota
+1400,20100,nissan,rogue,2020,10875.0,blue,minnesota
+1401,16300,nissan,rogue,2019,24174.0,white,minnesota
+1402,15400,nissan,sport,2019,30756.0,silver,minnesota
+1403,15800,nissan,rogue,2019,32473.0,blue,minnesota
+1404,15800,nissan,sport,2019,22947.0,blue,minnesota
+1405,11300,nissan,sentra,2019,26930.0,gray,minnesota
+1406,10700,nissan,sentra,2019,40839.0,black,minnesota
+1407,16000,nissan,rogue,2018,44732.0,no_color,south carolina
+1408,16600,nissan,rogue,2019,19292.0,white,minnesota
+1409,15800,nissan,sport,2019,24155.0,gray,minnesota
+1410,11600,nissan,sentra,2019,33369.0,black,minnesota
+1411,15000,nissan,rogue,2017,28918.0,red,virginia
+1412,17600,nissan,rogue,2019,21623.0,blue,minnesota
+1413,15600,nissan,sport,2019,26406.0,silver,minnesota
+1414,16600,nissan,rogue,2019,19182.0,black,minnesota
+1415,12600,nissan,sentra,2017,11837.0,gray,tennessee
+1416,12700,nissan,door,2017,17738.0,black,tennessee
+1417,15600,nissan,sport,2019,27206.0,white,minnesota
+1418,18900,nissan,rogue,2019,20508.0,silver,minnesota
+1419,15700,nissan,sport,2019,24987.0,blue,minnesota
+1420,14600,nissan,rogue,2016,31566.0,gray,virginia
+1421,12000,nissan,sentra,2019,25261.0,gray,minnesota
+1422,12500,nissan,door,2017,48765.0,blue,pennsylvania
+1423,15900,nissan,rogue,2019,30645.0,silver,minnesota
+1424,11800,nissan,door,2017,60158.0,red,pennsylvania
+1425,9900,nissan,versa,2019,39985.0,blue,minnesota
+1426,10600,nissan,sentra,2018,39208.0,black,minnesota
+1427,10100,nissan,sentra,2018,45080.0,black,minnesota
+1428,13300,nissan,sport,2018,39247.0,gray,minnesota
+1429,10100,nissan,sentra,2018,46382.0,white,minnesota
+1430,10300,nissan,sentra,2018,39893.0,black,minnesota
+1431,10300,nissan,sentra,2018,41203.0,gray,minnesota
+1432,10300,nissan,sentra,2018,40648.0,blue,minnesota
+1433,10400,nissan,sentra,2018,38761.0,gray,minnesota
+1434,10200,nissan,sentra,2018,42838.0,gray,minnesota
+1435,9500,nissan,versa,2018,41557.0,blue,minnesota
+1436,10500,nissan,sentra,2018,41136.0,black,minnesota
+1437,10500,nissan,sentra,2018,41141.0,silver,minnesota
+1438,3500,nissan,door,2016,115716.0,blue,pennsylvania
+1439,9300,nissan,versa,2018,52260.0,black,minnesota
+1440,14100,nissan,rogue,2016,22041.0,silver,pennsylvania
+1441,11000,nissan,rogue,2016,37605.0,black,pennsylvania
+1442,15100,nissan,rogue,2017,28079.0,gray,south carolina
+1443,19500,nissan,door,2017,53155.0,gray,south carolina
+1444,6500,nissan,door,2014,65620.0,white,pennsylvania
+1445,11800,nissan,door,2012,92878.0,gray,pennsylvania
+1446,14200,nissan,rogue,2018,37830.0,black,ohio
+1447,16000,nissan,sport,2018,30409.0,black,ohio
+1448,14300,nissan,sport,2018,44864.0,gray,ohio
+1449,11900,nissan,sentra,2018,16778.0,gray,ohio
+1450,15000,nissan,rogue,2019,34692.0,gray,florida
+1451,15200,nissan,rogue,2019,30721.0,gray,florida
+1452,18000,nissan,door,2017,53376.0,black,ohio
+1453,3800,nissan,door,2015,81699.0,blue,texas
+1454,11400,nissan,sentra,2018,10372.0,blue,illinois
+1455,3500,nissan,sentra,2017,127780.0,gray,illinois
+1456,13400,nissan,rogue,2016,46178.0,black,illinois
+1457,13900,nissan,rogue,2018,35493.0,black,florida
+1458,13900,nissan,rogue,2018,37073.0,gray,florida
+1459,13900,nissan,rogue,2018,38760.0,white,florida
+1460,13900,nissan,rogue,2018,35065.0,gray,florida
+1461,13900,nissan,rogue,2018,39797.0,black,florida
+1462,13900,nissan,rogue,2018,36207.0,black,florida
+1463,13900,nissan,rogue,2018,38563.0,black,florida
+1464,13900,nissan,rogue,2018,39885.0,silver,florida
+1465,13900,nissan,rogue,2018,34547.0,white,florida
+1466,3700,nissan,door,2015,75858.0,silver,illinois
+1467,9200,nissan,versa,2018,33808.0,black,florida
+1468,9200,nissan,versa,2018,33931.0,black,florida
+1469,11100,nissan,sentra,2019,40359.0,black,north carolina
+1470,13900,nissan,rogue,2018,44313.0,white,florida
+1471,9100,nissan,versa,2018,33078.0,black,florida
+1472,13900,nissan,rogue,2018,42502.0,black,florida
+1473,9200,nissan,versa,2018,39577.0,silver,florida
+1474,9200,nissan,versa,2018,41220.0,black,florida
+1475,13900,nissan,rogue,2018,41539.0,black,florida
+1476,9500,nissan,sentra,2019,19646.0,black,california
+1477,13900,nissan,rogue,2018,39924.0,white,florida
+1478,13900,nissan,rogue,2018,40259.0,gray,florida
+1479,10400,nissan,sentra,2019,25264.0,blue,california
+1480,9200,nissan,versa,2018,35677.0,black,florida
+1481,7400,nissan,versa,2019,35511.0,black,california
+1482,9200,nissan,versa,2018,33027.0,black,florida
+1483,7800,nissan,versa,2019,23609.0,red,california
+1484,9200,nissan,versa,2018,34553.0,silver,florida
+1485,9200,nissan,versa,2018,31594.0,silver,florida
+1486,9200,nissan,versa,2018,32557.0,black,florida
+1487,9200,nissan,versa,2018,31371.0,silver,florida
